@@ -2,12 +2,10 @@
 parts="
 my_product
 my_engineering
-my_company
 my_carrier
 my_region
 my_heytap
 my_stock
-my_preload
 my_bigball
 my_manifest
 odm
@@ -15,8 +13,6 @@ product
 system
 system_ext
 vendor
-vendor_dlkm
-system_dlkm"
 
 a=""
 for i in $(echo $parts); do
