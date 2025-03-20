@@ -12,7 +12,7 @@ odm
 product
 system
 system_ext
-vendor
+vendor"
 
 a=""
 for i in $(echo $parts); do
